@@ -138,6 +138,6 @@ Please see our [contribution document](./CONTRIBUTING.md) to learn more. Additio
 
 Conversion to the OWASP Top Ten 2013 completed in November, 2013.
 
-# License
+# Licenses
 
 [The MIT License (MIT)](./LICENSE.md)
